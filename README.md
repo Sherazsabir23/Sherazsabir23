@@ -73,9 +73,6 @@ Hi! I'm **Sheraz Sabir**, a Full Stack MERN Developer passionate about building 
 
 ## 🚀 Featured Projects
 
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -143,31 +140,6 @@ A full-stack e-commerce application with dedicated user, seller and admin workfl
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sherazsabir23&show_icons=true&hide_border=true&bg_color=071A3A&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherazsabir23&layout=compact&hide_border=true&bg_color=071A3A&title_color=58A6FF&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Sherazsabir23&hide_border=true&background=071A3A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=9CA3AF" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazsabir23&bg_color=071A3A&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
