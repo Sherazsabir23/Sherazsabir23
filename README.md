@@ -1,55 +1,204 @@
-Hey there! Thanks for stopping by.
 
+<!-- =============== HERO SECTION =============== -->
 
+<div align="center">
 
-If you are looking for someone who can take a web application idea from a simple sketch and turn it into a fully functional, high performing reality, you are in the right place.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A3A,50:0B2A5C,100:1565C0&height=220&section=header&text=SHERAZ%20SABIR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;JavaScript+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
+</a>
 
+<p>
+  <a href="https://sherazsabir.site">
+    <img src="https://img.shields.io/badge/Portfolio-071A3A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sheraz-sabir-454a0236a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sherazsabir.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B2A5C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I am a Full-Stack MERN Developer. In simple words: I build both the parts of a website you see and interact with (Frontend), and the hidden engines that make sure everything runs fast and securely behind the scenes (Backend).
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0B2A5C&style=flat-square" />
 
+</div>
 
+---
 
-What I Bring to the Table:
+<!-- =============== ABOUT ME =============== -->
 
+## 👨‍💻 About Me
 
+Hi! I'm **Sheraz Sabir**, a Full Stack MERN Developer passionate about building modern, secure, and user-friendly web applications.
 
-Production Grade Frontend (React): I don’t just make websites look good; I build production ready, highly optimized, and responsive user interfaces. If it’s clunky, heavy, or hard to navigate, I re-engineer it for maximum speed and smooth UX.
+- 💻 Developing full-stack applications using the MERN stack.
+- ⚛️ Building responsive interfaces with React.js and modern frontend tools.
+- 🔧 Developing RESTful APIs using Node.js and Express.js.
+- 🗄️ Working with MongoDB, PostgreSQL and Prisma ORM.
+- 🔐 Interested in application security and secure authentication.
+- 🚀 Focused on writing clean, maintainable and scalable code.
 
+---
 
+<!-- =============== TECH STACK =============== -->
 
-Robust Backend amp; APIs (Node.js amp; Express): I design bulletproof server architectures and clean, secure RESTful APIs. My focus is on making sure your backend handles heavy traffic, remains secure, and processes data instantly without crashing.
+## ⚡ Tech Stack
 
+### Frontend Development
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+</p>
 
-Scalable Databases (MongoDB): I architect smart data models that keep your system fast and responsive, ensuring your application seamlessly scales from dozens to thousands of active users.
+### Backend Development
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
+### Databases & ORM
 
-Seamless Deployment & Cloud Hosting: I dont just write code; I launch it. I live-host production applications smoothly using modern cloud platforms like Railway, Render, and Vercel, making sure they stay online 24/7 with zero downtime.
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+</p>
 
+### Tools & Platforms
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,cloudflare" />
+</p>
 
-End-to-End Ownership (The Whole Package): From gathering requirements and system architecture to writing clean code, handling deployments, and managing everything in between I take full ownership of the project. You wont need to bridge the gap between different developers because I handle it all.
+---
 
+<!-- =============== FEATURED PROJECTS =============== -->
 
+## 🚀 Featured Projects
 
-Why Work With Me?
+<table>
+<tr>
+<td width="50%" valign="top">
 
+<h3 align="center">🔐 Kyphora</h3>
 
+<div align="center">
+<img src="https://img.shields.io/badge/SECURITY-PASSWORD%20VAULT-0B2A5C?style=for-the-badge" />
+</div>
 
-I code for humans, not just machines: I believe great software should solve real-world problems and be incredibly easy for people to use
+A secure personal information vault designed to manage sensitive digital information.
 
+**Features:**
+- Password and secure notes management.
+- AES-256 encryption using CryptoJS.
+- Google Authenticator 2FA.
+- Session and login history management.
+- Password strength and security scoring.
 
+**Tech:** MERN Stack, CryptoJS
 
-No black box updates: I love collaborating and keeping communication clear, simple, and jargon-free.
+</td>
+<td width="50%" valign="top">
 
+<h3 align="center">🛒 Zentro</h3>
 
+<div align="center">
+<img src="https://img.shields.io/badge/FULL%20STACK-E%20COMMERCE-0B2A5C?style=for-the-badge" />
+</div>
 
-Always learning: The JavaScript world moves fast, and I make sure my skills move faster to bring the best solutions to your project.
+A full-stack e-commerce platform with separate user, seller and admin workflows.
 
+**Features:**
+- Product discovery and product details.
+- User authentication and account management.
+- Seller dashboard and product management.
+- Shopping cart and order management.
+- Cloudinary media integration.
 
+**Tech:** React, Redux, Node.js, Express, MongoDB
 
-Whether you want to build a new product from scratch, optimize an existing app, or just talk about clean code lets connect and good luck!
+</td>
+</tr>
 
-**Contact me:** sherazsabir.dev@gmail.com
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">⬇️ NoMark</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/MERN%20PROJECT-MEDIA%20DOWNLOADER-0B2A5C?style=for-the-badge" />
+</div>
+
+A multi-platform media downloader focused on simple, watermark-free downloads and an ad-free experience.
+
+**Features:**
+- Multi-platform media downloading.
+- Support for TikTok, Instagram, YouTube and other platforms.
+- Clean and responsive user interface.
+- Donation-based support system.
+
+**Tech:** MongoDB, Express.js, React.js, Node.js
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- =============== GITHUB STATISTICS =============== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=071A3A&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=071A3A&title_color=58A6FF&text_color=FFFFFF" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&background=071A3A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=9CA3AF" />
+
+</div>
+
+---
+
+<!-- =============== CONTRIBUTION GRAPH =============== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=071A3A&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- =============== CONNECT =============== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+
+<a href="https://sherazsabir.site">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-071A3A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sheraz-sabir-454a0236a">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sherazsabir.dev@gmail.com">
+<img src="https://img.shields.io/badge/Send%20Me%20an%20Email-0B2A5C?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Building today, innovating for tomorrow."** 💙
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A3A,50:0B2A5C,100:1565C0&height=120&section=footer" width="100%" />
+
+</div>
