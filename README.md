@@ -1,48 +1,47 @@
 
-<!-- =============== HERO SECTION =============== -->
+<!-- ================================================= -->
+<!--              SHERAZ SABIR                         -->
+<!--           GITHUB PROFILE README                   -->
+<!-- ================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A3A,50:0B2A5C,100:1565C0&height=220&section=header&text=SHERAZ%20SABIR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A3A,50:0B2A5C,100:1565C0&height=220&section=header&text=SHERAZ%20SABIR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20MERN%20DEVELOPER&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;JavaScript+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;JavaScript+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Products" />
+
+<br/>
+
+<a href="https://sherazsabir.site">
+<img src="https://img.shields.io/badge/PORTFOLIO-071A3A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sheraz-sabir-454a0236a">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sherazsabir.dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0B2A5C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<p>
-  <a href="https://sherazsabir.site">
-    <img src="https://img.shields.io/badge/Portfolio-071A3A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sheraz-sabir-454a0236a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sherazsabir.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B2A5C?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0B2A5C&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Sherazsabir23&label=PROFILE%20VIEWS&color=1565C0&style=flat-square" />
 
 </div>
 
 ---
 
-<!-- =============== ABOUT ME =============== -->
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Sheraz Sabir**, a Full Stack MERN Developer passionate about building modern, secure, and user-friendly web applications.
 
-- 💻 Developing full-stack applications using the MERN stack.
-- ⚛️ Building responsive interfaces with React.js and modern frontend tools.
-- 🔧 Developing RESTful APIs using Node.js and Express.js.
+- 💻 Building full-stack applications using the MERN stack.
+- ⚛️ Developing responsive interfaces with React.js and Redux.
+- 🔧 Creating RESTful APIs using Node.js and Express.js.
 - 🗄️ Working with MongoDB, PostgreSQL and Prisma ORM.
-- 🔐 Interested in application security and secure authentication.
-- 🚀 Focused on writing clean, maintainable and scalable code.
+- 🔐 Interested in web application security and authentication.
+- 🚀 Focused on clean code, maintainable architecture and real-world projects.
 
 ---
-
-<!-- =============== TECH STACK =============== -->
 
 ## ⚡ Tech Stack
 
@@ -64,15 +63,13 @@ Hi! I'm **Sheraz Sabir**, a Full Stack MERN Developer passionate about building 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
 </p>
 
-### Tools & Platforms
+### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,cloudflare" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
-
-<!-- =============== FEATURED PROJECTS =============== -->
 
 ## 🚀 Featured Projects
 
@@ -82,40 +79,43 @@ Hi! I'm **Sheraz Sabir**, a Full Stack MERN Developer passionate about building 
 
 <h3 align="center">🔐 Kyphora</h3>
 
-<div align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/SECURITY-PASSWORD%20VAULT-0B2A5C?style=for-the-badge" />
-</div>
+</p>
 
-A secure personal information vault designed to manage sensitive digital information.
+A secure personal information vault for managing sensitive digital information.
 
-**Features:**
-- Password and secure notes management.
+**Key Features**
+
 - AES-256 encryption using CryptoJS.
+- Passwords, secure notes and card management.
 - Google Authenticator 2FA.
 - Session and login history management.
 - Password strength and security scoring.
 
-**Tech:** MERN Stack, CryptoJS
+**Stack:** MongoDB, Express, React, Node.js
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">🛒 Zentro</h3>
 
-<div align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/FULL%20STACK-E%20COMMERCE-0B2A5C?style=for-the-badge" />
-</div>
+</p>
 
-A full-stack e-commerce platform with separate user, seller and admin workflows.
+A full-stack e-commerce application with dedicated user, seller and admin workflows.
 
-**Features:**
-- Product discovery and product details.
+**Key Features**
+
 - User authentication and account management.
+- Product discovery and product details.
 - Seller dashboard and product management.
 - Shopping cart and order management.
-- Cloudinary media integration.
+- Cloudinary image integration.
 
-**Tech:** React, Redux, Node.js, Express, MongoDB
+**Stack:** React, Redux, Node.js, Express, MongoDB
 
 </td>
 </tr>
@@ -125,19 +125,20 @@ A full-stack e-commerce platform with separate user, seller and admin workflows.
 
 <h3 align="center">⬇️ NoMark</h3>
 
-<div align="center">
-<img src="https://img.shields.io/badge/MERN%20PROJECT-MEDIA%20DOWNLOADER-0B2A5C?style=for-the-badge" />
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/MULTI%20PLATFORM-MEDIA%20DOWNLOADER-0B2A5C?style=for-the-badge" />
+</p>
 
-A multi-platform media downloader focused on simple, watermark-free downloads and an ad-free experience.
+A multi-platform media downloader designed for a simple, watermark-free and ad-free experience.
 
-**Features:**
-- Multi-platform media downloading.
-- Support for TikTok, Instagram, YouTube and other platforms.
-- Clean and responsive user interface.
+**Key Features**
+
+- Supports TikTok, Instagram, YouTube and other platforms.
+- Simple and responsive user interface.
+- Watermark-free downloading where supported.
 - Donation-based support system.
 
-**Tech:** MongoDB, Express.js, React.js, Node.js
+**Stack:** MongoDB, Express, React, Node.js
 
 </td>
 </tr>
@@ -145,37 +146,31 @@ A multi-platform media downloader focused on simple, watermark-free downloads an
 
 ---
 
-<!-- =============== GITHUB STATISTICS =============== -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=071A3A&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sherazsabir23&show_icons=true&hide_border=true&bg_color=071A3A&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=071A3A&title_color=58A6FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherazsabir23&layout=compact&hide_border=true&bg_color=071A3A&title_color=58A6FF&text_color=FFFFFF" />
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&background=071A3A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=9CA3AF" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Sherazsabir23&hide_border=true&background=071A3A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=9CA3AF" />
 
 </div>
 
 ---
-
-<!-- =============== CONTRIBUTION GRAPH =============== -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=071A3A&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazsabir23&bg_color=071A3A&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
-
-<!-- =============== CONNECT =============== -->
 
 ## 🤝 Let's Connect
 
@@ -183,22 +178,24 @@ A multi-platform media downloader focused on simple, watermark-free downloads an
 
 I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
 
+<br/>
+
 <a href="https://sherazsabir.site">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-071A3A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/WEBSITE-071A3A?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/sheraz-sabir-454a0236a">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:sherazsabir.dev@gmail.com">
-<img src="https://img.shields.io/badge/Send%20Me%20an%20Email-0B2A5C?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/CONTACT-0B2A5C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**"Building today, innovating for tomorrow."** 💙
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A3A,50:0B2A5C,100:1565C0&height=120&section=footer" width="100%" />
+### 💙 Building Today. Innovating Tomorrow.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A3A,50:0B2A5C,100:1565C0&height=120&section=footer" />
