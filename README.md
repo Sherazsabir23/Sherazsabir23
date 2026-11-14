@@ -73,6 +73,9 @@ Hi! I'm **Sheraz Sabir**, a Full Stack MERN Developer passionate about building 
 
 ## 🚀 Featured Projects
 
+
+## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -83,7 +86,9 @@ Hi! I'm **Sheraz Sabir**, a Full Stack MERN Developer passionate about building 
 <img src="https://img.shields.io/badge/SECURITY-PASSWORD%20VAULT-0B2A5C?style=for-the-badge" />
 </p>
 
+<p align="center">
 A secure personal information vault for managing sensitive digital information.
+</p>
 
 **Key Features**
 
@@ -93,7 +98,13 @@ A secure personal information vault for managing sensitive digital information.
 - Session and login history management.
 - Password strength and security scoring.
 
-**Stack:** MongoDB, Express, React, Node.js
+**Tech Stack:** MERN, CryptoJS
+
+<p align="center">
+<a href="https://kyphora-frontend.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
 </td>
 
@@ -105,7 +116,9 @@ A secure personal information vault for managing sensitive digital information.
 <img src="https://img.shields.io/badge/FULL%20STACK-E%20COMMERCE-0B2A5C?style=for-the-badge" />
 </p>
 
+<p align="center">
 A full-stack e-commerce application with dedicated user, seller and admin workflows.
+</p>
 
 **Key Features**
 
@@ -115,34 +128,18 @@ A full-stack e-commerce application with dedicated user, seller and admin workfl
 - Shopping cart and order management.
 - Cloudinary image integration.
 
-**Stack:** React, Redux, Node.js, Express, MongoDB
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-<h3 align="center">⬇️ NoMark</h3>
+**Tech Stack:** React, Redux, Node.js, Express, MongoDB
 
 <p align="center">
-<img src="https://img.shields.io/badge/MULTI%20PLATFORM-MEDIA%20DOWNLOADER-0B2A5C?style=for-the-badge" />
+<a href="https://zentro-frontend-acwj.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
-
-A multi-platform media downloader designed for a simple, watermark-free and ad-free experience.
-
-**Key Features**
-
-- Supports TikTok, Instagram, YouTube and other platforms.
-- Simple and responsive user interface.
-- Watermark-free downloading where supported.
-- Donation-based support system.
-
-**Stack:** MongoDB, Express, React, Node.js
 
 </td>
 </tr>
 </table>
+
 
 ---
 
